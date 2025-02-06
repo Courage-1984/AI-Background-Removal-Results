@@ -83,19 +83,30 @@ CarveKit can also be used here on [The official website](https://carve.photos/) 
 
 ---
 
-## CarveKit | [Repo](https://github.com/OPHoperHPO/image-background-remove-tool) | [Implemented Neural Networks](https://github.com/OPHoperHPO/image-background-remove-tool?tab=readme-ov-file#-implemented-neural-networks)
+## Transparent Background | [Repo](https://github.com/plemeri/transparent-background)
 
-CarveKit works with 4 different Neural Networks (`Tracer-B7`, `U^2-net`, `BASNet` & `DeepLabV3`).
+Transparent Background is a background removing tool powered by **InSPyReNet (ACCV 2022)**. It has a simple and easy to use GUI.
 
-CarveKit can also be used here on [The official website](https://carve.photos/) and on a [google colab](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/carvekit_try.ipynb).
+**Normal Results:**
 
-| Original  | Tracer-B7 | U^2-net | BASNet | DeepLabV3 |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-![Original]() | ![Tracer-B7]() | ![U^2-net]()  | ![BASNet]() | ![DeepLabV3]() |
-![Original]() | ![Tracer-B7]() | ![U^2-net]()  | ![BASNet]() | ![DeepLabV3]() |
-![Original]() | ![Tracer-B7]() | ![U^2-net]()  | ![BASNet]() | ![DeepLabV3]() |
-![Original]() | ![Tracer-B7]() | ![U^2-net]()  | ![BASNet]() | ![DeepLabV3]() |
-![Original]() | ![Tracer-B7]() | ![U^2-net]()  | ![BASNet]() | ![DeepLabV3]() |
+| Original  | Transparent Background |
+| ------------- | ------------- |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/1.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/1_rgba.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/2.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/2_rgba.png) |
+
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/3.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/3_rgba.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/4_rgba.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/5_rgba.png) |
+
+**Reversed Results:**
+
+| Original  | Reversed |
+| ------------- | ------------- |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/1.png) | ![Reversed](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/1_rgba_reverse.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/2.png) | ![Reversed](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/2_rgba_reverse.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/3.png) | ![Reversed](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/3_rgba_reverse.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![Reversed](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/4_rgba_reverse.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![Reversed](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/5_rgba_reverse.png) |
 
 ---
 
