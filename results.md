@@ -72,3 +72,27 @@
 
 ---
 
+## Pinokio
+
+### BRIA RMBG [Link](https://pinokio.computer/item?uri=https%3A%2F%2Fgithub.com%2Fcocktailpeanutlabs%2Fbria-rmbg)
+
+| Original  | BRIA RMBG |
+| ------------- | ------------- |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/1.png) | ![BRIA RMBG](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/BRIA%20RMBG/1_BRIA%20RMBG.webp) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/2.png) | ![BRIA RMBG](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/BRIA%20RMBG/2_BRIA%20RMBG.webp) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/3.png) | ![BRIA RMBG](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/BRIA%20RMBG/3_BRIA%20RMBG.webp) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![BRIA RMBG](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/BRIA%20RMBG/4_BRIA%20RMBG.webp) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![BRIA RMBG](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/BRIA%20RMBG/5_BRIA%20RMBG.webp) |
+
+### RMBG-2-Studio [Link](https://pinokio.computer/item?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2FRMBG-2-Studio)
+
+| Original  | RMBG-2-Studio |
+| ------------- | ------------- |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/1.png) | ![RMBG-2-Studio](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/RMBG-2-Studio/1_RMBG-2-Studio.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/2.png) | ![RMBG-2-Studio](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/RMBG-2-Studio/2_RMBG-2-Studio.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/3.png) | ![RMBG-2-Studio](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/RMBG-2-Studio/3_RMBG-2-Studio.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![RMBG-2-Studio](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/RMBG-2-Studio/4_RMBG-2-Studio.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![RMBG-2-Studio](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/RMBG-2-Studio/5_RMBG-2-Studio.png) |
+
+---
+
