@@ -93,7 +93,6 @@ Transparent Background is a background removing tool powered by **InSPyReNet (AC
 | ------------- | ------------- |
 ![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/1.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/1_rgba.png) |
 ![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/2.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/2_rgba.png) |
-
 ![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/3.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/3_rgba.png) |
 ![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/4_rgba.png) |
 ![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![Transparent Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Transparent%20Background/5_rgba.png) |
