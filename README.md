@@ -109,6 +109,88 @@ Transparent Background is a background removing tool powered by **InSPyReNet (AC
 
 ---
 
+## BackgroundRemover | [Repo](https://github.com/nadermx/backgroundremover)
+
+BackgroundRemover works with 3 different background removal methods (`u2netp`, `u2net` & `u2net_human_seg`).
+
+BackgroundRemover can also be used here on [The official website](https://www.backgroundremoverai.com/).
+
+| Original  | u2netp | u2net | u2net_human_seg |
+| ------------- | ------------- | ------------- | ------------- |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/1.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/1_u2netp_nobg.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/1_u2net_nobg.png) | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/1_u2net_human_seg_nobg.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/2.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/2_u2netp_nobg.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/2_u2net_nobg.png) | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/2_u2net_human_seg_nobg.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/3.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/3_u2netp_nobg.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/3_u2net_nobg.png) | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/3_u2net_human_seg_nobg.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/4_u2netp_nobg.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/4_u2net_nobg.png) | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/4_u2net_human_seg_nobg.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/5_u2netp_nobg.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/5_u2net_nobg.png) | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/BackgroundRemover/5_u2net_human_seg_nobg.png) |
+
+---
+
+## CarveKit | [Repo](https://github.com/OPHoperHPO/image-background-remove-tool) | [Implemented Neural Networks](https://github.com/OPHoperHPO/image-background-remove-tool?tab=readme-ov-file#-implemented-neural-networks)
+
+CarveKit works with 4 different Neural Networks (`Tracer-B7`, `U^2-net`, `BASNet` & `DeepLabV3`).
+
+CarveKit can also be used here on [The official website](https://carve.photos/) and on a [google colab](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/carvekit_try.ipynb).
+
+| Original  | Modelscope | Modelscope | Modelscope |
+| ------------- | ------------- | ------------- | ------------- |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+
+---
+
+## CarveKit | [Repo](https://github.com/OPHoperHPO/image-background-remove-tool) | [Implemented Neural Networks](https://github.com/OPHoperHPO/image-background-remove-tool?tab=readme-ov-file#-implemented-neural-networks)
+
+CarveKit works with 4 different Neural Networks (`Tracer-B7`, `U^2-net`, `BASNet` & `DeepLabV3`).
+
+CarveKit can also be used here on [The official website](https://carve.photos/) and on a [google colab](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/carvekit_try.ipynb).
+
+| Original  | Modelscope | Modelscope | Modelscope |
+| ------------- | ------------- | ------------- | ------------- |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+
+---
+
+## CarveKit | [Repo](https://github.com/OPHoperHPO/image-background-remove-tool) | [Implemented Neural Networks](https://github.com/OPHoperHPO/image-background-remove-tool?tab=readme-ov-file#-implemented-neural-networks)
+
+CarveKit works with 4 different Neural Networks (`Tracer-B7`, `U^2-net`, `BASNet` & `DeepLabV3`).
+
+CarveKit can also be used here on [The official website](https://carve.photos/) and on a [google colab](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/carvekit_try.ipynb).
+
+| Original  | Modelscope | Modelscope | Modelscope |
+| ------------- | ------------- | ------------- | ------------- |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+
+---
+
+## CarveKit | [Repo](https://github.com/OPHoperHPO/image-background-remove-tool) | [Implemented Neural Networks](https://github.com/OPHoperHPO/image-background-remove-tool?tab=readme-ov-file#-implemented-neural-networks)
+
+CarveKit works with 4 different Neural Networks (`Tracer-B7`, `U^2-net`, `BASNet` & `DeepLabV3`).
+
+CarveKit can also be used here on [The official website](https://carve.photos/) and on a [google colab](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/carvekit_try.ipynb).
+
+| Original  | Modelscope | Modelscope | Modelscope |
+| ------------- | ------------- | ------------- | ------------- |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+
+---
+
+## CarveKit | [Repo](https://github.com/OPHoperHPO/image-background-remove-tool) | [Implemented Neural Networks](https://github.com/OPHoperHPO/image-background-remove-tool?tab=readme-ov-file#-implemented-neural-networks)
+
+CarveKit works with 4 different Neural Networks (`Tracer-B7`, `U^2-net`, `BASNet` & `DeepLabV3`).
+
+CarveKit can also be used here on [The official website](https://carve.photos/) and on a [google colab](https://colab.research.google.com/github/OPHoperHPO/image-background-remove-tool/blob/master/docs/other/carvekit_try.ipynb).
+
+| Original  | Modelscope | Modelscope | Modelscope |
+| ------------- | ------------- | ------------- | ------------- |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+![Original]() | ![Modelscope]() | ![Modelscope]() | ![Modelscope]() |
+
+---
+
+
 ### Hope you found this useful!
 
 ---
