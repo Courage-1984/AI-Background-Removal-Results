@@ -23,13 +23,14 @@ This repository contains the results of various AI Background Removal methods/mo
      - [BRIA ComfyUI API Nodes](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bria-comfyui-api-nodes--repo)
   - [IOPaint](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#iopaint)
 - [Model Research/Info](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#model-researchinfo)
-- [Extra](#extra)
 - [License](#license)
 
 ---
 
 # Introduction
 I tested 14 different `Github repo implementations`/`models`/`implementations`/`software` of AI Background Removal. I tried to stick to FOSS sources.
+
+**Three of my test images used I found [Here](https://huggingface.co/briaai/RMBG-2.0/blob/main/collage5.png).**
 
 **If you only want to see the results visit:** [results.md](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/results.md).
 
@@ -270,7 +271,7 @@ node name: "Bria RMBG" & "Bria Remove Foreground" (I found the "Bria Remove Fore
 
 ---
 
-## IOPaint
+## IOPaint | [Repo](https://github.com/Sanster/IOPaint)
 
 > Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
@@ -288,17 +289,65 @@ With IOPaint you have 15 background removal models to choose from (`RMBG-1.4`, `
 
 ## Model Research/Info
 
+I will try to present my findings from newest/best models/implementations to oldest/worst. You can then `Ctrl+F` > `model_name` to find everywhere, where that model is used.
 
+### RMBG-2.0 | [source](https://huggingface.co/briaai/RMBG-2.0)
+
+### RMBG-1.4 | [source](https://huggingface.co/briaai/RMBG-1.4)
+
+### BiRefNet | [source](https://huggingface.co/ZhengPeng7/BiRefNet) | [models 1](https://github.com/ZhengPeng7/BiRefNet?tab=readme-ov-file#model-zoo) | [models 2](https://github.com/lldacing/ComfyUI_BiRefNet_ll?tab=readme-ov-file#models)
+
+### BiRefNet massive / BiRefNet DIS / DIS / DIS-TR_TEs / TR_DIS5K_TR_TEs | [source](https://github.com/ZhengPeng7/BiRefNet) | [model zoo](https://github.com/ZhengPeng7/BiRefNet?tab=readme-ov-file#model-zoo)
+
+### Open RMBG / ormbg / Open Remove Background Model | [source](https://huggingface.co/schirrmacher/ormbg)
+
+### BiRefNet portrait | [source](https://huggingface.co/ZhengPeng7/BiRefNet-portrait) | [model zoo](https://github.com/ZhengPeng7/BiRefNet?tab=readme-ov-file#model-zoo)
+
+### ISNET DIS | [source](https://github.com/xuebinqin/DIS) | [model zoo](https://github.com/danielgatis/rembg?tab=readme-ov-file#models)
+
+### ISNET general use | [source](https://github.com/xuebinqin/DIS) | [source 2](https://huggingface.co/NimaBoscarino/IS-Net_DIS-general-use) | [model zoo](https://github.com/danielgatis/rembg?tab=readme-ov-file#models)
+
+### BASNet | [source](https://github.com/xuebinqin/BASNet)
+
+### BiRefNet DIS ep580 | [source](https://huggingface.co/ViperYX/BiRefNet/resolve/main/BiRefNet-DIS_ep580.pth)
+
+### BiRefNet ep480 | [source](https://huggingface.co/ViperYX/BiRefNet/resolve/main/BiRefNet-ep480.pth)
+
+### BiRefNet Matting | [source](https://huggingface.co/ZhengPeng7/BiRefNet-matting)
+
+### BiRefNet General Lite 2K | [source](https://huggingface.co/ZhengPeng7/BiRefNet_lite-2K)
+
+### BiRefNet General Lite | [source](https://huggingface.co/ZhengPeng7/BiRefNet_lite)
+
+### BiRefNet General | [source](https://huggingface.co/ZhengPeng7/BiRefNet)
+
+### BiRefNet HRSOD | [source](https://huggingface.co/ZhengPeng7/BiRefNet-HRSOD)
+
+### BiRefNet COD | [source](https://huggingface.co/ZhengPeng7/BiRefNet-COD)
+
+### InSPyReNet | [source](https://github.com/plemeri/InSPyReNet)
+
+### silueta | [source](https://github.com/xuebinqin/U-2-Net/issues/295)
+
+### ISNET anime | [source](https://github.com/SkyTNT/anime-segmentation)
+
+### u2net | [source](https://github.com/xuebinqin/U-2-Net)
+
+### u2netp | [source](https://github.com/xuebinqin/U-2-Net)
+
+### u2net_human_seg | [source](https://github.com/xuebinqin/U-2-Net)
+
+### u2net_cloth_seg | [source](https://github.com/levindabhi/cloth-segmentation)
+
+### Tracer B7 | [source](https://github.com/Karel911/TRACER) | [model](https://huggingface.co/Carve/tracer_b7)
+
+### DeepLabV3 | [source 1](https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/) | [source 2](https://github.com/pytorch/vision/blob/main/torchvision/models/segmentation/deeplabv3.py) | [source 3](https://github.com/VainF/DeepLabV3Plus-Pytorch)
+
+### sam | [source](https://github.com/facebookresearch/segment-anything)
 
 ---
 
 ### Hope you found this useful!
-
----
-
-# Extra
-
-EXTRA_SHIT_HERE
 
 ---
 
