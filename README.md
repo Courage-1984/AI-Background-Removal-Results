@@ -11,18 +11,18 @@ This repository contains the results of various AI Background Removal methods/mo
   - [BackgroundRemover](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#backgroundremover--repo)
   - [Rembg](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#rembg--repo--implemented-models)
   - [BGBye](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bgbye--repo)
-  - [Pinokio]()
-     - [BRIA RMBG]()
-     - [RMBG-2-Studio]()
-  - [ComfyUI]()
-     - [BizyAir]()
-     - [ComfyUI Essentials]()
-     - [MTB Nodes]()
-     - [ComfyUI BiRefNet Hugo]()
-     - [ComfyUI BiRefNet ll]()
-     - [BRIA ComfyUI API Nodes]()
-  - [IOPaint]()
-- [Model Research/Info]()
+  - [Pinokio](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#pinokio--link)
+     - [BRIA RMBG](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bria-rmbg--link)
+     - [RMBG-2-Studio](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#rmbg-2-studio--link)
+  - [ComfyUI](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#comfyui--repo)
+     - [BizyAir](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bizyair--repo)
+     - [ComfyUI Essentials](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#comfyui-essentials--repo)
+     - [MTB Nodes](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#mtb-nodes--repo)
+     - [ComfyUI BiRefNet Hugo](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#comfyui-birefnet-hugo--repo)
+     - [ComfyUI BiRefNet ll](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#comfyui-birefnet-ll--repo)
+     - [BRIA ComfyUI API Nodes](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bria-comfyui-api-nodes--repo)
+  - [IOPaint](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#iopaint)
+- [Model Research/Info](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#model-researchinfo)
 - [Extra](#extra)
 - [License](#license)
 
@@ -31,7 +31,11 @@ This repository contains the results of various AI Background Removal methods/mo
 # Introduction
 I tested 14 different `Github repo implementations`/`models`/`implementations`/`software` of AI Background Removal. I tried to stick to FOSS sources.
 
-**If you only want to see the results visit:** [results.md](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/results.md)
+**If you only want to see the results visit:** [results.md](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/results.md).
+
+Also if you are hasty you migh wanna have a look at [Model Research/Info](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#model-researchinfo).
+
+If you wanna go through the whole readme consider viewing the [README.md Here](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/README.md) as it is a bit wider which presents some of the tables better.
 
 note: **the results I present are not definitive, you could perhaps get better results with tweaking the implementation's settings/prompts/parameters etc.**
 
@@ -42,18 +46,17 @@ I tested the following:
  - https://github.com/nadermx/backgroundremover - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#backgroundremover--repo)
  - https://github.com/danielgatis/rembg - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#rembg--repo--implemented-models)
  - https://github.com/MangoLion/bgbye - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bgbye--repo)
- - [Pinokio](https://pinokio.computer/) - [Jump to the results](GITHUB__LINK_HERE)
-    - https://pinokio.computer/item?uri=https://github.com/cocktailpeanutlabs/bria-rmbg - [Jump to the results](GITHUB__LINK_HERE)
-    - https://pinokio.computer/item?uri=https://github.com/pinokiofactory/RMBG-2-Studio - [Jump to the results](GITHUB__LINK_HERE)
- - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - [Jump to the results](GITHUB__LINK_HERE)
-    - https://github.com/siliconflow/BizyAir - [Jump to the results](GITHUB__LINK_HERE)
-    - https://github.com/cubiq/ComfyUI_essentials - [Jump to the results](GITHUB__LINK_HERE)
-    - https://github.com/melMass/comfy_mtb - [Jump to the results](GITHUB_LINK_HERE)
-    - https://github.com/MoonHugo/ComfyUI-BiRefNet-Hugo - [Jump to the results](GITHUB__LINK_HERE)
-    - https://github.com/lldacing/ComfyUI_BiRefNet_ll - [Jump to the results](GITHUB__LINK_HERE)
-    - https://github.com/Bria-AI/ComfyUI-BRIA-API - [Jump to the results](GITHUB__LINK_HERE)
- - https://github.com/Sanster/IOPaint - [Jump to the results](GITHUB__LINK_HERE)
- - LINK_HERE - [Jump to the results](GITHUB_LINK_HERE)
+ - [Pinokio](https://pinokio.computer/) - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#pinokio--link)
+    - https://pinokio.computer/item?uri=https://github.com/cocktailpeanutlabs/bria-rmbg - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bria-rmbg--link)
+    - https://pinokio.computer/item?uri=https://github.com/pinokiofactory/RMBG-2-Studio - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#rmbg-2-studio--link)
+ - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#comfyui--repo)
+    - https://github.com/siliconflow/BizyAir - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bizyair--repo)
+    - https://github.com/cubiq/ComfyUI_essentials - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#comfyui-essentials--repo)
+    - https://github.com/melMass/comfy_mtb - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#mtb-nodes--repo)
+    - https://github.com/MoonHugo/ComfyUI-BiRefNet-Hugo - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#comfyui-birefnet-hugo--repo)
+    - https://github.com/lldacing/ComfyUI_BiRefNet_ll - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#comfyui-birefnet-ll--repo)
+    - https://github.com/Bria-AI/ComfyUI-BRIA-API - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#bria-comfyui-api-nodes--repo)
+ - https://github.com/Sanster/IOPaint - [Jump to the results](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#iopaint)
 
 ---
 
@@ -63,7 +66,7 @@ Some people might come here to just find the best background removal method/mode
 
 Also all the different method/model/implementation/software has pro's and con's in terms of setting it up and running it and you will have to try yourself to see how it goes (although maybe start with those that presents multiple results per single method/model/implementation/software as you can get your desired result faster this way).
 
-I have research a little bit about the models used and you can scroll to the bottom or [click here to go to 'Model Research/Info](GITHUB__LINK_HERE).
+I have research a little bit about the models used and you can scroll to the bottom or [click here to go to 'Model Research/Info](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#model-researchinfo).
 
 I do invite you though to read the rest of the [README.md](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/README.md) as it is quite interesting and informative and you might find something you wanted. My testing/evaluations was done on a small dataset and with a basic understanding of the different implementations' *scripts* so it is not conclusive.
 
