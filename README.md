@@ -155,9 +155,11 @@ BGBye can also be used here on [The official website](https://bgbye.fyrean.com/)
 
 ---
 
-## Pinokio
+## Pinokio | [Link](https://pinokio.computer/)
 
-### BRIA RMBG [Link](https://pinokio.computer/item?uri=https%3A%2F%2Fgithub.com%2Fcocktailpeanutlabs%2Fbria-rmbg)
+> Pinokio is a browser that lets you install, run, and manage ANY server application, locally.
+
+### BRIA RMBG | [Link](https://pinokio.computer/item?uri=https%3A%2F%2Fgithub.com%2Fcocktailpeanutlabs%2Fbria-rmbg)
 
 | Original  | BRIA RMBG |
 | ------------- | ------------- |
@@ -167,7 +169,7 @@ BGBye can also be used here on [The official website](https://bgbye.fyrean.com/)
 ![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![BRIA RMBG](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/BRIA%20RMBG/4_BRIA%20RMBG.webp) |
 ![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![BRIA RMBG](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/BRIA%20RMBG/5_BRIA%20RMBG.webp) |
 
-### RMBG-2-Studio [Link](https://pinokio.computer/item?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2FRMBG-2-Studio)
+### RMBG-2-Studio | [Link](https://pinokio.computer/item?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2FRMBG-2-Studio)
 
 | Original  | RMBG-2-Studio |
 | ------------- | ------------- |
@@ -178,6 +180,64 @@ BGBye can also be used here on [The official website](https://bgbye.fyrean.com/)
 ![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![RMBG-2-Studio](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/Pinokio/RMBG-2-Studio/5_RMBG-2-Studio.png) |
 
 ---
+
+## ComfyUI | [Repo](https://github.com/comfyanonymous/ComfyUI)
+
+> The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
+I used a few ComfyUI nodes that are used to remove backgrounds.
+
+### BizyAir | [Repo](https://github.com/siliconflow/BizyAir)
+
+node name: "Remove Image Background"
+
+| Original  | Remove Image Background |
+| ------------- | ------------- |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/1.png) | ![Remove Image Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/1/BizyAir/1_BizyAir%20Remove%20Image%20Background_noBG_00001_.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/2.png) | ![Remove Image Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/2/BizyAir/2_BizyAir%20Remove%20Image%20Background_noBG_00001_.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/3.png) | ![Remove Image Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/3/BizyAir/3_BizyAir%20Remove%20Image%20Background_noBG_00001_.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![Remove Image Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/4/BizyAir/4_BizyAir%20Remove%20Image%20Background_noBG_00001_.png) |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![Remove Image Background](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/5/BizyAir/5_BizyAir%20Remove%20Image%20Background_noBG_00001_.png) |
+
+### ComfyUI Essentials | [Repo](https://github.com/cubiq/ComfyUI_essentials)
+
+node name: "RemBG Session"
+
+| Original  | u2net | u2netp | u2net_human_seg | silueta | isnet-general-use | isnet-anime | sam |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/1.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/1/ComfyUI%20Essentials/1_RemBG%20Session_u2net_noBG_00001_.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/1/ComfyUI%20Essentials/1_RemBG%20Session_u2netp_noBG_00001_.png)  | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/1/ComfyUI%20Essentials/1_RemBG%20Session_u2net_human_seg_noBG_00001_.png) | ![silueta](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/1/ComfyUI%20Essentials/1_RemBG%20Session_silueta_noBG_00001_.png) | ![isnet-general-use](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/1/ComfyUI%20Essentials/1_RemBG%20Session_isnet-general-use_noBG_00001_.png) | ![isnet-anime](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/1/ComfyUI%20Essentials/1_RemBG%20Session_isnet-anime_noBG_00001_.png) | ![sam](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/1/ComfyUI%20Essentials/1_RemBG%20Session_sam_noBG_00001_.png)
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/2.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/2/ComfyUI%20Essentials/2_RemBG%20Session_u2net_noBG_00001_.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/2/ComfyUI%20Essentials/2_RemBG%20Session_u2netp_noBG_00001_.png)  | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/2/ComfyUI%20Essentials/2_RemBG%20Session_u2net_human_seg_noBG_00001_.png) | ![silueta](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/2/ComfyUI%20Essentials/2_RemBG%20Session_silueta_noBG_00001_.png) | ![isnet-general-use](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/2/ComfyUI%20Essentials/2_RemBG%20Session_isnet-general-use_noBG_00001_.png) | ![isnet-anime](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/2/ComfyUI%20Essentials/2_RemBG%20Session_isnet-anime_noBG_00001_.png) | ![sam](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/2/ComfyUI%20Essentials/2_RemBG%20Session_sam_noBG_00001_.png)
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/3.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/3/ComfyUI%20Essentials/3_RemBG%20Session_u2net_noBG_00001_.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/3/ComfyUI%20Essentials/3_RemBG%20Session_u2netp_noBG_00001_.png)  | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/3/ComfyUI%20Essentials/3_RemBG%20Session_u2net_human_seg_noBG_00001_.png) | ![silueta](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/3/ComfyUI%20Essentials/3_RemBG%20Session_silueta_noBG_00001_.png) | ![isnet-general-use](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/3/ComfyUI%20Essentials/3_RemBG%20Session_isnet-general-use_noBG_00001_.png) | ![isnet-anime](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/3/ComfyUI%20Essentials/3_RemBG%20Session_isnet-anime_noBG_00001_.png) | ![sam](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/3/ComfyUI%20Essentials/3_RemBG%20Session_sam_noBG_00001_.png)
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/4.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/4/ComfyUI%20Essentials/4_RemBG%20Session_u2net_noBG_00001_.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/4/ComfyUI%20Essentials/4_RemBG%20Session_u2netp_noBG_00001_.png)  | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/4/ComfyUI%20Essentials/4_RemBG%20Session_u2net_human_seg_noBG_00001_.png) | ![silueta](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/4/ComfyUI%20Essentials/4_RemBG%20Session_silueta_noBG_00001_.png) | ![isnet-general-use](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/4/ComfyUI%20Essentials/4_RemBG%20Session_isnet-general-use_noBG_00001_.png) | ![isnet-anime](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/4/ComfyUI%20Essentials/4_RemBG%20Session_isnet-anime_noBG_00001_.png) | ![sam](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/4/ComfyUI%20Essentials/4_RemBG%20Session_sam_noBG_00001_.png)
+![Original](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Original_Images/5.png) | ![u2net](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/5/ComfyUI%20Essentials/5_RemBG%20Session_u2net_noBG_00001_.png) | ![u2netp](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/5/ComfyUI%20Essentials/5_RemBG%20Session_u2netp_noBG_00001_.png)  | ![u2net_human_seg](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/5/ComfyUI%20Essentials/5_RemBG%20Session_u2net_human_seg_noBG_00001_.png) | ![silueta](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/5/ComfyUI%20Essentials/5_RemBG%20Session_silueta_noBG_00001_.png) | ![isnet-general-use](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/5/ComfyUI%20Essentials/5_RemBG%20Session_isnet-general-use_noBG_00001_.png) | ![isnet-anime](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/5/ComfyUI%20Essentials/5_RemBG%20Session_isnet-anime_noBG_00001_.png) | ![sam](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/Images/Results/ComfyUI/5/ComfyUI%20Essentials/5_RemBG%20Session_sam_noBG_00001_.png)
+
+### MTB Nodes | [Repo](https://github.com/melMass/comfy_mtb)
+
+node name: ""
+
+### ComfyUI BiRefNet Hugo | [Repo](https://github.com/MoonHugo/ComfyUI-BiRefNet-Hugo)
+
+node name: ""
+
+### ComfyUI BiRefNet ll | [Repo](https://github.com/lldacing/ComfyUI_BiRefNet_ll)
+
+node name: ""
+
+### BRIA ComfyUI API Nodes | [Repo](https://github.com/Bria-AI/ComfyUI-BRIA-API)
+
+node name: ""
+
+
+---
+
+MODEL RESEARCH
+MODEL RESEARCH
+MODEL RESEARCH
+MODEL RESEARCH
+MODEL RESEARCH
+
+
+
 ### Hope you found this useful!
 
 ---
