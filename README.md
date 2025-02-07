@@ -63,11 +63,9 @@ I tested the following:
 
 # My Recommendations
 
-Some people might come here to just find the best background removal method/model/implementation/software, and to be fair this is a bit difficult to do. You get different types of images and thus certain method/model/implementation/software is for certain types of images. Thus I can't really recommend a single or few method/model/implementation/software (excepts maybe starting with the latests models/implementations) because for every image the appropriate method/model/implementation/software may differ. 
+I know people will come here to find the best background removal model or service, but unfortunately there is no "best" for all images. With different images, different models will be better.
 
-Also all the different method/model/implementation/software has pro's and con's in terms of setting it up and running it and you will have to try yourself to see how it goes (although maybe start with those that presents multiple results per single method/model/implementation/software as you can get your desired result faster this way).
-
-I have research a little bit about the models used and you can scroll to the bottom or [click here to go to 'Model Research/Info](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#model-researchinfo).
+Additionally, each model has pros and cons in terms of the set up process & running it. You will have to try each one yourself to see how it goes. Look at the results posted here and find the model that best lines up with your use-case. You may also want to look at [Model Research/Info](https://github.com/Courage-1984/AI-Background-Removal-Results?tab=readme-ov-file#model-researchinfo).
 
 I do invite you though to read the rest of the [README.md](https://github.com/Courage-1984/AI-Background-Removal-Results/blob/main/README.md) as it is quite interesting and informative and you might find something you wanted. My testing/evaluations was done on a small dataset and with a basic understanding of the different implementations' *scripts* so it is not conclusive.
 
